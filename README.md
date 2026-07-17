@@ -22,7 +22,7 @@ A simple and efficient personal finance application built with Python and Flask.
 ## Installation
 
 ```bash
-git clone https://github.com/mavenhub/smart-expense-tracker.git
+git clone https://github.com/MavenHub06/smart-expense-tracker.git
 cd smart-expense-tracker
 pip install -r requirements.txt
 python app.py
